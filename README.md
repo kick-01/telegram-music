@@ -23,8 +23,8 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 
 
 ```sh
-$ git clone https://github.com/thehamkercat/Telegram_VC_Bot
-$ cd Telegram_VC_Bot
+$ git clone https://github.com/kick-01/telegram-music
+$ cd telegram-music
 $ sudo apt-get install ffmpeg
 $ pip3 install -U pip
 $ pip3 install -U -r requirements.txt
