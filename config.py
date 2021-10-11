@@ -22,7 +22,7 @@ if not HEROKU:
     API_ID = 14371
     API_HASH = "e46b6c854d2bf58a0"
     ARQ_API_KEY = "Get this from @ARQRobot"
-    CHAT_ID = -100546355432
+    CHAT_ID = -1001551683296
     DEFAULT_SERVICE = "saavn"  # Must be one of "youtube"/"saavn"
     BITRATE = 512 # Must be 512/320
 
